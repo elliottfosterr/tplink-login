@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/tplink-login-account/">
+
 How to Login TP-Link Router Login Account?: A Step-By-Step Guide
 ============================================
 .
